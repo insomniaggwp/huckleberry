@@ -25,13 +25,6 @@ body {
   background-color: hsl(0deg, 0%, 40%);
 }
 
-.intro-chunk {
-  min-width: 390px;
-  max-width: 800px;
-  margin: auto;
-  padding: 24px;
-}
-
 strong {
   display: inline-block;
   color: hsl(160deg, 100%, 30%);
@@ -40,6 +33,13 @@ strong {
 
 main {
   border-top: 5px solid hsl(0deg, 0%, 60%);
+}
+
+.intro-chunk {
+  min-width: 390px;
+  max-width: 800px;
+  margin: auto;
+  padding: 24px;
 }
 
 .card {
